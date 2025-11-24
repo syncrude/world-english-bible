@@ -1,7 +1,7 @@
 {
   "name": "world-english-bible",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "[![NPM](https://nodei.co/npm/world-english-bible.png)](https://nodei.co/npm/world-english-bible/)",
   "scripts": {
     "parse-html": "node parse-html.ts",
