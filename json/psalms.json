@@ -155,13 +155,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 6,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Why do the nations rage, "
@@ -432,13 +425,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 3,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, how my adversaries have increased! "
@@ -629,13 +615,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Answer me when I call, God of my righteousness. "
@@ -812,13 +791,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1123,13 +1095,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 6,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, don’t rebuke me in your anger, "
@@ -1346,13 +1311,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -1757,13 +1715,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 8,
-		"verseNumber": 17,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 8,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, our Lord, how majestic is your name in all the earth! "
@@ -1950,13 +1901,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 9,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2387,13 +2331,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 10,
-		"verseNumber": 20,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -2861,13 +2798,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 11,
-		"verseNumber": 18,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 11,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "In Yahweh, I take refuge. "
@@ -3054,13 +2984,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 12,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3255,13 +3178,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 13,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 13,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "How long, Yahweh? "
@@ -3421,13 +3337,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 14,
-		"verseNumber": 6,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3642,13 +3551,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 15,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 15,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, who shall dwell in your sanctuary? "
@@ -3791,13 +3693,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 16,
-		"verseNumber": 5,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4064,13 +3959,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 17,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -4451,13 +4339,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 18,
-		"verseNumber": 15,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -5582,13 +5463,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 19,
-		"verseNumber": 50,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 19,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "The heavens declare the glory of God. "
@@ -5955,13 +5829,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 20,
-		"verseNumber": 14,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 20,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "May Yahweh answer you in the day of trouble. "
@@ -6168,13 +6035,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 21,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -6455,13 +6315,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 22,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -7225,13 +7078,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 23,
-		"verseNumber": 31,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 23,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh is my shepherd: "
@@ -7398,13 +7244,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 24,
-		"verseNumber": 6,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -7681,13 +7520,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 25,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -8188,13 +8020,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 26,
-		"verseNumber": 22,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 26,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Judge me, Yahweh, for I have walked in my integrity. "
@@ -8454,13 +8279,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 27,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -8898,13 +8716,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 28,
-		"verseNumber": 14,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 28,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "To you, Yahweh, I call. "
@@ -9198,13 +9009,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 29,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 29,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Ascribe to Yahweh, you sons of the mighty, "
@@ -9457,13 +9261,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 30,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -9744,13 +9541,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 31,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -10365,13 +10155,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 32,
-		"verseNumber": 24,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 32,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Blessed is he whose disobedience is forgiven, "
@@ -10608,13 +10391,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 33,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -11055,13 +10831,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 34,
-		"verseNumber": 22,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -11525,13 +11294,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 35,
-		"verseNumber": 22,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -12195,13 +11957,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 36,
-		"verseNumber": 28,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 36,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "A revelation is within my heart about the disobedience of the wicked: "
@@ -12481,13 +12236,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 37,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -13431,13 +13179,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 38,
-		"verseNumber": 40,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 38,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, don’t rebuke me in your wrath, "
@@ -13908,13 +13649,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 39,
-		"verseNumber": 22,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 39,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I said, “I will watch my ways, so that I don’t sin with my tongue. "
@@ -14271,13 +14005,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 40,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -14722,13 +14449,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 41,
-		"verseNumber": 17,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 41,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Blessed is he who considers the poor. "
@@ -15065,13 +14785,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 42,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 42,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "As the deer pants for the water brooks, "
@@ -15375,13 +15088,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 43,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 43,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Vindicate me, God, and plead my cause against an ungodly nation. "
@@ -15548,13 +15254,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 44,
-		"verseNumber": 5,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -16182,13 +15881,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 45,
-		"verseNumber": 26,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 45,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "My heart overflows with a noble theme. "
@@ -16559,13 +16251,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 46,
-		"verseNumber": 17,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 46,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "God is our refuge and strength, "
@@ -16848,13 +16533,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 47,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 47,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Oh clap your hands, all you nations. "
@@ -17061,13 +16739,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 48,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -17388,13 +17059,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 49,
-		"verseNumber": 14,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -17868,13 +17532,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 50,
-		"verseNumber": 20,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -18428,13 +18085,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 51,
-		"verseNumber": 23,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 51,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Have mercy on me, God, according to your loving kindness. "
@@ -18868,13 +18518,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 52,
-		"verseNumber": 19,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 52,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Why do you boast of mischief, mighty man? "
@@ -19095,13 +18738,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 53,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 53,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "The fool has said in his heart, “There is no God.” "
@@ -19312,13 +18948,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 54,
-		"verseNumber": 6,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 54,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Save me, God, by your name. "
@@ -19475,13 +19104,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 55,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -20072,13 +19694,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 56,
-		"verseNumber": 23,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 56,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Be merciful to me, God, for man wants to swallow me up. "
@@ -20409,13 +20024,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 57,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 57,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Be merciful to me, God, be merciful to me, "
@@ -20739,13 +20347,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 58,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 58,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Do you indeed speak righteousness, silent ones? "
@@ -20972,13 +20573,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 59,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -21426,13 +21020,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 60,
-		"verseNumber": 17,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 60,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "God, you have rejected us. "
@@ -21789,13 +21376,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 61,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 61,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Hear my cry, God. "
@@ -21962,13 +21542,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 62,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -22303,13 +21876,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 63,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 63,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "God, you are my God. "
@@ -22580,13 +22146,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 64,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 64,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Hear my voice, God, in my complaint. "
@@ -22823,13 +22382,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 65,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -23210,13 +22762,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 66,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -23668,13 +23213,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 67,
-		"verseNumber": 20,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 67,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "May God be merciful to us, bless us, "
@@ -23831,13 +23369,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 68,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -24761,13 +24292,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 69,
-		"verseNumber": 35,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 69,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Save me, God, "
@@ -25548,13 +25072,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 70,
-		"verseNumber": 36,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 70,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Hurry, God, to deliver me. "
@@ -25687,13 +25204,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 71,
-		"verseNumber": 5,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -26258,13 +25768,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 72,
-		"verseNumber": 24,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 72,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "God, give the king your justice; "
@@ -26743,13 +26246,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 73,
-		"verseNumber": 20,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -27340,13 +26836,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 74,
-		"verseNumber": 28,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 74,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "God, why have you rejected us forever? "
@@ -27859,13 +27348,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 75,
-		"verseNumber": 23,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 75,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "We give thanks to you, God. "
@@ -28138,13 +27620,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 76,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 76,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "In Judah, God is known. "
@@ -28407,13 +27882,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 77,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -28913,13 +28381,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 78,
-		"verseNumber": 20,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -30530,13 +29991,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 79,
-		"verseNumber": 72,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 79,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "God, the nations have come into your inheritance. "
@@ -30859,13 +30313,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 80,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -31326,13 +30773,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 81,
-		"verseNumber": 19,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 81,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Sing aloud to God, our strength! "
@@ -31706,13 +31146,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 82,
-		"verseNumber": 16,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 82,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "God presides in the great assembly. "
@@ -31902,13 +31335,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 83,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -32283,13 +31709,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 84,
-		"verseNumber": 18,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 84,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "How lovely are your dwellings, "
@@ -32570,13 +31989,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 85,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 85,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, you have been favorable to your land. "
@@ -32853,13 +32265,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 86,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -33254,13 +32659,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 87,
-		"verseNumber": 17,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 87,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "His foundation is in the holy mountains. "
@@ -33387,13 +32785,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 88,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -33804,13 +33195,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 89,
-		"verseNumber": 18,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -34967,13 +34351,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 90,
-		"verseNumber": 52,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 90,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Lord, you have been our dwelling place for all generations. "
@@ -35354,13 +34731,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 91,
-		"verseNumber": 17,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 91,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "He who dwells in the secret place of the Most High "
@@ -35721,13 +35091,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 92,
-		"verseNumber": 16,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 92,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "It is a good thing to give thanks to Yahweh, "
@@ -36048,13 +35411,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 93,
-		"verseNumber": 15,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 93,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh reigns! "
@@ -36211,13 +35567,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 94,
-		"verseNumber": 5,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -36692,13 +36041,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 95,
-		"verseNumber": 23,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 95,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Oh come, let’s sing to Yahweh. "
@@ -36945,13 +36287,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 96,
-		"verseNumber": 11,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -37266,13 +36601,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 97,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 97,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh reigns! "
@@ -37563,13 +36891,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 98,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 98,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Sing to Yahweh a new song, "
@@ -37776,13 +37097,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 99,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -38073,13 +37387,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 100,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 100,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Shout for joy to Yahweh, all you lands! "
@@ -38206,13 +37513,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 101,
-		"verseNumber": 5,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -38423,13 +37723,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 102,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -39050,13 +38343,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 103,
-		"verseNumber": 28,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 103,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Praise Yahweh, my soul! "
@@ -39513,13 +38799,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 104,
-		"verseNumber": 22,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -40310,13 +39589,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 105,
-		"verseNumber": 35,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -41227,13 +40499,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 106,
-		"verseNumber": 45,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -42360,13 +41625,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 107,
-		"verseNumber": 48,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 107,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Give thanks to Yahweh, for he is good, "
@@ -43364,13 +42622,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 108,
-		"verseNumber": 43,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 108,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "My heart is steadfast, God. "
@@ -43657,13 +42908,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 109,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -44331,13 +43575,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 110,
-		"verseNumber": 31,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 110,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh says to my Lord, “Sit at my right hand, "
@@ -44484,13 +43721,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 111,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -44725,13 +43955,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 112,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 112,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Praise Yah! "
@@ -44962,13 +44185,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 113,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 113,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Praise Yah! "
@@ -45159,13 +44375,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 114,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 114,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "When Israel went out of Egypt, "
@@ -45322,13 +44531,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 115,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -45733,13 +44935,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 116,
-		"verseNumber": 18,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 116,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I love Yahweh, because he listens to my voice, "
@@ -46120,13 +45315,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 117,
-		"verseNumber": 19,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 117,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Praise Yahweh, all you nations! "
@@ -46173,13 +45361,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 118,
-		"verseNumber": 2,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -46790,13 +45971,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 119,
-		"verseNumber": 29,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -50678,13 +49852,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 120,
-		"verseNumber": 176,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 120,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "In my distress, I cried to Yahweh. "
@@ -50831,13 +49998,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 121,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -51025,13 +50185,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 122,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 122,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I was glad when they said to me, "
@@ -51212,13 +50365,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 123,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 123,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I lift up my eyes to you, "
@@ -51325,13 +50471,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 124,
-		"verseNumber": 4,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -51496,13 +50635,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 125,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 125,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Those who trust in Yahweh are as Mount Zion, "
@@ -51619,13 +50751,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 126,
-		"verseNumber": 5,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -51766,13 +50891,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 127,
-		"verseNumber": 6,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -51927,13 +51045,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 128,
-		"verseNumber": 5,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 128,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Blessed is everyone who fears Yahweh, "
@@ -52050,13 +51161,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 129,
-		"verseNumber": 6,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -52241,13 +51345,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 130,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 130,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Out of the depths I have cried to you, Yahweh. "
@@ -52418,13 +51515,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 131,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 131,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, my heart isn’t arrogant, nor my eyes lofty; "
@@ -52511,13 +51601,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 132,
-		"verseNumber": 3,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -52902,13 +51985,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 133,
-		"verseNumber": 18,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 133,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "See how good and how pleasant it is "
@@ -53019,13 +52095,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 134,
-		"verseNumber": 3,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 134,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Look! Praise Yahweh, all you servants of Yahweh, "
@@ -53082,13 +52151,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 135,
-		"verseNumber": 3,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -53562,13 +52624,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 136,
-		"verseNumber": 21,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -54093,13 +53148,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 137,
-		"verseNumber": 26,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 137,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "By the rivers of Babylon, there we sat down. "
@@ -54310,13 +53358,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 138,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 138,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I will give you thanks with my whole heart. "
@@ -54513,13 +53554,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 139,
-		"verseNumber": 8,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -55084,13 +54118,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 140,
-		"verseNumber": 24,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 140,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Deliver me, Yahweh, from the evil man. "
@@ -55381,13 +54408,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 141,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 141,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Yahweh, I have called on you. "
@@ -55648,13 +54668,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 142,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 142,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I cry with my voice to Yahweh. "
@@ -55891,13 +54904,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 143,
-		"verseNumber": 7,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -56248,13 +55254,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 144,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -56638,13 +55637,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 145,
-		"verseNumber": 15,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -57095,13 +56087,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 146,
-		"verseNumber": 21,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 146,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Praise Yah! "
@@ -57354,13 +56339,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 147,
-		"verseNumber": 10,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -57801,13 +56779,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 148,
-		"verseNumber": 20,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 148,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Praise Yah! "
@@ -58134,13 +57105,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 149,
-		"verseNumber": 14,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 149,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Praise Yahweh! "
@@ -58343,13 +57307,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 150,
-		"verseNumber": 9,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",

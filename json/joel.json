@@ -638,13 +638,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 20,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Blow the trumpet in Zion, "
@@ -1883,13 +1876,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 3,
-		"verseNumber": 32,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",

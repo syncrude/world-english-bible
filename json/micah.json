@@ -577,13 +577,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 16,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "Woe to those who devise iniquity "
@@ -1535,13 +1528,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 4,
-		"verseNumber": 12,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 4,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "But in the latter days, "
@@ -2101,13 +2087,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
-		"verseNumber": 13,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
@@ -3159,13 +3138,6 @@
 	},
 	{
 		"type": "stanza start"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 7,
-		"verseNumber": 16,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",

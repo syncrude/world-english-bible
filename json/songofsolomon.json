@@ -508,13 +508,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 2,
-		"verseNumber": 17,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 2,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I am a rose of Sharon, "
@@ -2047,13 +2040,6 @@
 	{
 		"type": "line text",
 		"chapterNumber": 5,
-		"verseNumber": 16,
-		"sectionNumber": 1,
-		"value": " "
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 5,
 		"verseNumber": 1,
 		"sectionNumber": 1,
 		"value": "I have come into my garden, my sister, my bride. "
@@ -2573,13 +2559,6 @@
 	},
 	{
 		"type": "line break"
-	},
-	{
-		"type": "line text",
-		"chapterNumber": 6,
-		"verseNumber": 16,
-		"sectionNumber": 1,
-		"value": " "
 	},
 	{
 		"type": "line text",
